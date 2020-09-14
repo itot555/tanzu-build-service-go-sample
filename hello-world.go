@@ -1,6 +1,10 @@
 package main
 
-import "net/http"
+import (
+        "net/http"
+        "fmt"
+        "log"
+)
 
 func main() {
         http.HandleFunc("/", hello)
