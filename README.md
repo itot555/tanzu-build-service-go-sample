@@ -1,2 +1,2 @@
-# tbs-demo-go
-go sample
+# tanzu-build-service-go-sample
+TBS Go sample
